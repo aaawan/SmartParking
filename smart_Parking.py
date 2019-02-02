@@ -118,16 +118,16 @@ IRTrackingPin5 = 23
 OutLedPin5 = 24
 
 #irsensor---> 6
-IRTrackingPin5 = 3
-OutLedPin5 = 4
+IRTrackingPin6 = 3
+OutLedPin6 = 4
 
 #irsensor---> 7
-IRTrackingPin5 = 12
-OutLedPin5 = 13
+IRTrackingPin7 = 12
+OutLedPin7 = 13
 
 #irsensor---> 8
-IRTrackingPin5 = 14
-OutLedPin5 = 15
+IRTrackingPin8 = 14
+OutLedPin8 = 15
 
 #Set the GPIO pins as numbering with IR
 def IRsetup():
